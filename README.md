@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ENG-OmarOsama/ENG-OmarOsama/main/avatar.png" width="160" alt="Omar Avatar"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Omar Osama</h1>
 <h3 align="center">Full-Stack Software Developer • Product Builder • AI Enthusiast</h3>
 
