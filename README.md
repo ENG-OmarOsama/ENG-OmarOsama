@@ -50,7 +50,7 @@ I specialize in bridging the gap between raw LLM capabilities and polished user 
 
 ### 💬 Let's Connect
 - 💼 LinkedIn: [omar-osama-studio](https://www.linkedin.com/in/omar-osama-studio)
-- 📧 Email: *[Your Email Here]*
+- 📧 Email: *[omar.osama.works@gmail.com]*
 
 <p align="center">
   <i>"Turning complex problems into elegant, user-centric software."</i>
