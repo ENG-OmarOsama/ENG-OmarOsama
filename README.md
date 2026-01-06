@@ -52,13 +52,6 @@ I specialize in bridging the gap between raw LLM capabilities and polished user 
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ENG-OmarOsama&show_icons=true&theme=radical" alt="Omar's Stats" width="400" />
-</p>
-
----
-
 ### 💬 Let's Connect
 - 💼 LinkedIn: [omar-osama-studio](https://www.linkedin.com/in/omar-osama-studio)
 - 📧 Email: *[Your Email Here]*
